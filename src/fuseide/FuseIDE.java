@@ -5,6 +5,14 @@
  */
 package fuseide;
 
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*;
+import javax.swing.*;
+import javax.swing.text.*;
+
+
+
 /**
  *
  * @author Korisnik
@@ -16,6 +24,8 @@ public class FuseIDE {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello there!");
+        
     }
     
 }
